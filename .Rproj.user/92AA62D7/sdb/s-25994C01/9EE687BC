@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"Hello, this is Mengqi Zhu!\"\n---\n\n### Welcome to my webpage!\n\n\n<img src=\"images/index_3.jpg\" style=\"width:95%\">\n \n## Curriculum Vitae\nMy full CV is available [here](cv.html).\n\n## About me\nThere is something interesting about me [here](about.html).\n\n## Contact Information\nMengqi Zhu\n\n[Department of Biostatistics](https://www.mailman.columbia.edu/become-student/departments/biostatistics)\n\n[Columbia Mailman School of Public Health](https://www.mailman.columbia.edu/)\n\nNew York, New York 10032\n\nEmail: [mz26622@cumc.columbia.edu](mailto:<mz2662@cumc.columbia.edu>)\n\nPhone: 917-774-7973\n\n",
+    "contents" : "---\ntitle: \"Hello, this is Mengqi Zhu!\"\n---\n\n### Welcome to my webpage!\n\n\n<img src=\"images/index_3.jpg\" style=\"width:95%\">\n \n## Curriculum Vitae\nMy full CV is available [here](cv.html).\n\n## About me\nThere is something interesting about me [here](about.html).\n\n## Contact Information\nMengqi Zhu\n\n[Department of Biostatistics](https://www.mailman.columbia.edu/become-student/departments/biostatistics)\n\n[Columbia Mailman School of Public Health](https://www.mailman.columbia.edu/)\n\nNew York, New York 10032\n\nEmail: [mz2662@cumc.columbia.edu](mailto:<mz2662@cumc.columbia.edu>)\n\nPhone: 917-774-7973\n\n",
     "created" : 1509297512885.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3883176504",
+    "hash" : "3217124810",
     "id" : "9EE687BC",
-    "lastKnownWriteTime" : 1509301561,
-    "last_content_update" : 1509301561686,
+    "lastKnownWriteTime" : 1509302479,
+    "last_content_update" : 1509302479253,
     "path" : "D:/Study/2017 Fall/Data Science/作业/hw4_website/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
