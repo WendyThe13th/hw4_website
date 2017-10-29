@@ -1,0 +1,9 @@
+---
+title: "CV"
+---
+
+<img src="images/cv_1.jpg" style="width:75%">
+<img src="images/cv_2.jpg" style="width:75%">
+<img src="images/cv_3.jpg" style="width:75%">
+<img src="images/cv_4.jpg" style="width:75%">
+<img src="images/cv_5.jpg" style="width:75%">

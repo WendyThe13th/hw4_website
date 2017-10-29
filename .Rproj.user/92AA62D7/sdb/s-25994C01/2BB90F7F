@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"Mengqi-website!\"\noutput_dir: \".\"\nnavbar:\n  title: \"Mengqi's Website\"\n  right:\n    - text: \"Home\"\n      href: index.html\n    - text: \"CV\"\n      href: cv.html      \n    - icon: fa-envelope fa-lg\n      href: mailto:<mz2662@cumc.columbia.edu>\n    - icon: fa-github fa-lg\n      href: http://github.com/WendyThe13th/\n    - icon: fa-linkedin fa-lg\n      href: https://www.linkedin.com/in/mengqi-zhu-a6b00114a/     \noutput:\n  html_document:\n    theme: journal\n  ",
+    "created" : 1509298661929.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1669480198",
+    "id" : "2BB90F7F",
+    "lastKnownWriteTime" : 1509298860,
+    "last_content_update" : 1509298860143,
+    "path" : "D:/Study/2017 Fall/Data Science/作业/hw4_website/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

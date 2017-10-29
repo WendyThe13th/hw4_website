@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"CV\"\n---\n\n<img src=\"images/cv_1.jpg\" style=\"width:75%\">\n<img src=\"images/cv_2.jpg\" style=\"width:75%\">\n<img src=\"images/cv_3.jpg\" style=\"width:75%\">\n<img src=\"images/cv_4.jpg\" style=\"width:75%\">\n<img src=\"images/cv_5.jpg\" style=\"width:75%\">\n",
+    "created" : 1509299874149.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3013684446",
+    "id" : "8D94E6B3",
+    "lastKnownWriteTime" : 1509300838,
+    "last_content_update" : 1509300838439,
+    "path" : "D:/Study/2017 Fall/Data Science/作业/hw4_website/cv.Rmd",
+    "project_path" : "cv.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
